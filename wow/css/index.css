@@ -28,6 +28,9 @@ ul {
 * {
 	box-sizing: border-box;
 }
+body {
+	background-color: #000;
+}
 
 body,html { 
 	height: 100%;
